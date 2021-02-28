@@ -222,6 +222,7 @@ h4{
 .article p{
 	margin-left: 100px;
 	margin-bottom: 10px;
+	text-align: center;
 }
 .article h4{
 	font-size: 25px;
