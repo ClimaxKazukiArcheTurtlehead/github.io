@@ -58,7 +58,7 @@ h1, h2{
 	font-family: 'Modern Antiqua', 'Noto Sans JP',serif;
 }
 .is{
-	font-color:black;
+	color: #000;
 }
 img{
 	max-width: 100%;
